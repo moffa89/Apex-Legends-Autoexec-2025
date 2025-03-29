@@ -13,7 +13,7 @@
 | `+exec autoexec` | Executes the autoexec.cfg file on startup |
 | `+cl_is_softened_locale 1` | Removes blood effects and visual clutter |
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
-| `-anticheat_settings=SettingsDX11.json` | Forces the game to launch in DirectX11 |
+| `-no_render_on_input_thread` | Prevents multithreaded rendering from using the same CPU core as input processing. For players with a high number of CPU cores (min. 6), this can improve the stability of frame rates and input lag, especially if they have a high polling rate mouse or controller. For other players, this option could worsen rendering performance. |
 
 # Consistant Frame Caping
 - Capping FPS is good or bad? and How to cap it? Answer : [Watch this video](https://youtu.be/N8ZUqT6Tfiw)
