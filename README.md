@@ -1,5 +1,7 @@
 # Apex Legends Autoexec & Tweaks
-- Works with new Season 24
+- Works with new Season 25
+
+I bring some updates soon.
 
 # How it Works
 1. Download [autoexec.cfg](https://github.com/moffa89/Apex-Autoexec-2024/blob/main/autoexec.cfg)
