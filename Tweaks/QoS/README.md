@@ -6,4 +6,4 @@
    
 ![QoS](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/Tweaks/QoS/QoS.png)
 
-7. Restart & Enjoy.
+5. Restart & Enjoy.
