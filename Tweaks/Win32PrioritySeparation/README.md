@@ -9,3 +9,5 @@
 2. Open your selected file and apply with yes.
 3. When it´s not working then rightclick and "open as Administrator".
 4. No need to restart just Enjoy.
+
+Note: If you want to learn more about Win32PrioritySeparation [click here](https://www.xbitlabs.com/win32priorityseparation-performance/).
