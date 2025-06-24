@@ -2,6 +2,7 @@
 
 - Works with new Season 25
 - 05/24/2025 New [QoS](https://github.com/moffa89/Apex-Legends-Autoexec-2025/tree/main/Tweaks/QoS) in Tweaks and wrote some README for Steam and Win32PrioritySeparation.
+- 06/24/2025 New [UDP](https://github.com/moffa89/Apex-Legends-Autoexec-2025/tree/main/Tweaks/UDP) in Tweaks check out!
 
 # How it Works
 1. Download [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg)
