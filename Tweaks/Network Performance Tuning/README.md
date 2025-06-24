@@ -1,4 +1,4 @@
-# Registry Tuning
+# Network Performance Tuning
 
 The registry entries that may be added/changed by this “General Tuning” procedure are:
 
@@ -13,7 +13,7 @@ Under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters:
 
     Enable fast datagram sending for UDP traffic:
                             
-    FastSendDatagramThreshold, type REG_DWORD, value set to 64K.
+    FastSendDatagramThreshold, type REG_DWORD, value set to 64000.
 
             
 Under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Ndis\Parameters:
@@ -22,6 +22,9 @@ Under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Ndis\Parameters:
 
     RssBaseCpu, type REG_DWORD, value set to 1.
 
-# Otherwise just use my .reg files above. ;-)
+
+# Batchfile for install
+
+I made a .bat file for this [Network Performance Tuning](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/Tweaks/Network%20Performance%20Tuning/Network%20Performance%20Tuning.bat).
 
             
