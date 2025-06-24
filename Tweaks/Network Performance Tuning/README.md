@@ -1,4 +1,4 @@
-Registry Tuning
+# Registry Tuning
 
 The registry entries that may be added/changed by this “General Tuning” procedure are:
 
@@ -22,6 +22,6 @@ Under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Ndis\Parameters:
 
     RssBaseCpu, type REG_DWORD, value set to 1.
 
-Otherwise just use my .reg files above. ;-)
+# Otherwise just use my .reg files above. ;-)
 
             
