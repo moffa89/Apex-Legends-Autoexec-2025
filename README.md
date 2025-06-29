@@ -1,4 +1,6 @@
-# How to do
+# 06/29/2025 NEW! [Windows Gaming Tweaks](https://github.com/moffa89/Windows-Gaming-Tweaks) repo!
+
+# Instructions
 1. Download [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg)
 2. Move [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
 3. Rightclick on the game inside of Steam and go to "Properties".
