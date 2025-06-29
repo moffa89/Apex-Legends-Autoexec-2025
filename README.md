@@ -1,9 +1,4 @@
-# Apex Legends Autoexec & Tweaks
-
-- Works with new Season 25
-- 06/24/2025 New [Network Performance Tuning](https://github.com/moffa89/Apex-Legends-Autoexec-2025/tree/main/Tweaks/Network%20Performance%20Tuning) in Tweaks check out!
-- 05/24/2025 New [QoS](https://github.com/moffa89/Apex-Legends-Autoexec-2025/tree/main/Tweaks/QoS) in Tweaks and wrote some README for Steam and Win32PrioritySeparation.
-
+# Apex Legends Autoexec 2025
 
 # How it Works
 1. Download [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg)
