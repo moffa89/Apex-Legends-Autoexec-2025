@@ -1,4 +1,4 @@
-# 06/29/2025 NEW! [Windows Gaming Tweaks](https://github.com/moffa89/Windows-Gaming-Tweaks) repo!
+# 07/14/2025 NEW! [Windows Gaming Tweaks](https://github.com/moffa89/Windows-Gaming-Tweaks) repo!
 
 # Instructions
 1. Download [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg)
