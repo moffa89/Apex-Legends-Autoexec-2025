@@ -1,5 +1,3 @@
-# 07/14/2025 NEW! [Windows Gaming Tweaks](https://github.com/moffa89/Windows-Gaming-Tweaks) repo!
-
 # Instructions
 1. Download [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg)
 2. Move [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
@@ -28,3 +26,5 @@
 - In this media file you should see two files named "intro.bik" and "respawn.bik"
 - What you have to do is rename both of these files to something else and KEEP THE .bik PORTION. DO NOT remove the .bik or delete these files.
 - Example: rename intro.bik and respawn.bik to apex.bik and legends.bik
+
+# 07/14/2025 NEW! [Windows Gaming Tweaks](https://github.com/moffa89/Windows-Gaming-Tweaks) repo!
