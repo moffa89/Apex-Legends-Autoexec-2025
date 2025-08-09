@@ -5,14 +5,14 @@
 2. Move [autoexec.cfg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/autoexec.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
 3. Rightclick on the game inside of Steam and go to "Properties".
 4. Switch to the "General" Tab.
-5. Add the command in launch options "+exec autoexec.cfg +cl_is_softened_locale 1 -dev -no_render_on_input_thread" (without the Quotation marks).
+5. Add the command in launch options "+exec autoexec.cfg +cl_is_softened_locale 1 -dev" (without the Quotation marks).
 
 | Command | Description |
 | --- | --- |
 | `+exec autoexec` | Executes the autoexec.cfg file on startup |
 | `+cl_is_softened_locale 1` | Removes blood effects and visual clutter |
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
-| `-no_render_on_input_thread` | Prevents multithreaded rendering from using the same CPU core as input processing. For players with a high number of CPU cores (min. 6), this can improve the stability of frame rates and input lag, especially if they have a high polling rate mouse or controller. For other players, this option could worsen rendering performance. |
+| `-no_render_on_input_thread` | Launch argument -no_render_on_input_thread has been made the default for players with 8 or more cores on their CPU. This improves performance stability and input latency, especially when paired with high-polling rate mice or controllers. It can still be enabled manually for players with fewer CPU cores, and it can be disabled with -render_on_input_thread. |
 
 # Consistant Frame Caping
 - Capping FPS is good or bad? and How to cap it? Answer : [Watch this video](https://youtu.be/N8ZUqT6Tfiw)
