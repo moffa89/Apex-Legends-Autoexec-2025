@@ -10,7 +10,7 @@
 | `+exec autoexec` | Executes the autoexec.cfg file on startup |
 | `+cl_is_softened_locale 1` | Removes blood effects and visual clutter |
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
-| `-no_render_on_input_thread` | Launch argument -no_render_on_input_thread has been made the default for players with 8 or more cores on their CPU. This improves performance stability and input latency, especially when paired with high-polling rate mice or controllers. It can still be enabled manually with -no_render_on_input_thread for players with fewer CPU cores, and it can be disabled with -render_on_input_thread for players with more than 8 cores. |
+| `-no_render_on_input_thread` | Launch argument -no_render_on_input_thread has been made the default for players with 8 or more cores on their CPU. This improves performance stability and input latency, especially when paired with high-polling rate mice or controllers. It can still be enabled manually with -no_render_on_input_thread for players with 6 CPU cores, and it can be disabled with -render_on_input_thread for players with 8 or more cores. |
 
 # Consistant Frame Caping
 - Capping FPS is good or bad? and How to cap it? Answer : [Watch this video](https://youtu.be/N8ZUqT6Tfiw)
